@@ -1,0 +1,40 @@
+
+
+.yashmit{
+    display:flex;
+    justify-content: space-between;
+    background-color:#3515a7 ;
+    color: #08530f;
+    font-size: larger;
+}
+
+.group{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+    color: #53055e;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+img{
+    border:solid;
+    border-radius: 1em;
+    border-color: #7fff00;
+}
+body{
+    background-color: #8d8d8d;
+    color:#53055e;
+    font-size: larger;
+    font-style: italic;
+    font-family: Georgia;
+}
+
+    
+
+
